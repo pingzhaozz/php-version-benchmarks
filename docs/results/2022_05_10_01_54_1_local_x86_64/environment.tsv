@@ -1,0 +1,2 @@
+URI	ID	Name	Environment	Runner	Instance type	Architecture	CPU	CPU cores	RAM	Kernel	OS	Dedicated instance	Disabled deeper C-states	Disabled turbo boost	Disabled hyper-threading	Time
+2022_05_10_01_54_1_local_x86_64	local_x86_64	host	local	host		x86_64		224	1007 GB	5.15.0-intel-next+	Ubuntu 20.04.3 LTS	0	0	0	0	2022-05-10 01:54:00

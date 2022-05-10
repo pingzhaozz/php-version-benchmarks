@@ -1,0 +1,2 @@
+Test name	Test warmup	Test iterations	Test requests	PHP	PHP Commit hash	PHP Commit URL	Min	Max	Std dev	Average	Average diff %	Median	Median diff %	Memory usage
+bench.php	5	15	0	PHP 8.1	2a69208b43bac3353e1d91ded6be10c2a1a8dc02	https://github.com/pingzhaozz/php-src/commit/2a69208b43bac3353e1d91ded6be10c2a1a8dc02	0.27600	0.27860	0.00068	0.27728	0.00	0.27737	0.00	29.63
